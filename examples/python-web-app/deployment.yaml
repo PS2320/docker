@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: ps2320/python-demo-app
+        image: ps2320/python-web-app
         ports:
         - containerPort: 8000
